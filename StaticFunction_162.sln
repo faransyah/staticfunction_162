@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaticFunction_162", "StaticFunction_162.vcxproj", "{5C5A9798-6F93-4BC8-8834-1B79E20BA1DA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "staticfunction2", "..\staticfunction2\staticfunction2.vcxproj", "{9A121248-E8BD-41F2-9ECB-87D7DE162CEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{5C5A9798-6F93-4BC8-8834-1B79E20BA1DA}.Release|x64.Build.0 = Release|x64
 		{5C5A9798-6F93-4BC8-8834-1B79E20BA1DA}.Release|x86.ActiveCfg = Release|Win32
 		{5C5A9798-6F93-4BC8-8834-1B79E20BA1DA}.Release|x86.Build.0 = Release|Win32
+		{9A121248-E8BD-41F2-9ECB-87D7DE162CEE}.Debug|x64.ActiveCfg = Debug|x64
+		{9A121248-E8BD-41F2-9ECB-87D7DE162CEE}.Debug|x64.Build.0 = Debug|x64
+		{9A121248-E8BD-41F2-9ECB-87D7DE162CEE}.Debug|x86.ActiveCfg = Debug|Win32
+		{9A121248-E8BD-41F2-9ECB-87D7DE162CEE}.Debug|x86.Build.0 = Debug|Win32
+		{9A121248-E8BD-41F2-9ECB-87D7DE162CEE}.Release|x64.ActiveCfg = Release|x64
+		{9A121248-E8BD-41F2-9ECB-87D7DE162CEE}.Release|x64.Build.0 = Release|x64
+		{9A121248-E8BD-41F2-9ECB-87D7DE162CEE}.Release|x86.ActiveCfg = Release|Win32
+		{9A121248-E8BD-41F2-9ECB-87D7DE162CEE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
