@@ -20,5 +20,10 @@ void mahasiswa::setID() {
 }
 
 void mahasiswa::printAll() {
+	mahasiswa mhs1("Lia Kurnia");
+	mahasiswa mhs2("Asroni");
+	mahasiswa mhs3("Andi Kurniawan");
+	mahasiswa mhs4("Joko Purbo");
+
 
 }
